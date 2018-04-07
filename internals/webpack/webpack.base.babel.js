@@ -31,9 +31,16 @@ module.exports = (options) => ({
         // Preprocess our own .css files
         // This is the place to add your own loaders (e.g. sass/less etc.)
         // for a list of loaders, see https://webpack.js.org/loaders/#styling
-        test: /\.css$/,
+        test: /\.less$/,
         exclude: /node_modules/,
-        use: ['style-loader', 'css-loader'],
+        use: ['style-loader', {
+          loader: 'css-loader',
+          options: {
+            importLoaders: 1,
+          },
+        },
+          'less-loader',
+        ],
       },
       {
         // Preprocess 3rd party .css files located in node_modules
@@ -88,8 +95,8 @@ module.exports = (options) => ({
       fetch: 'exports-loader?self.fetch!whatwg-fetch',
     }),
 
-    // Always expose NODE_ENV to webpack, in order to use `process.env.NODE_ENV`
-    // inside your code for any environment checks; UglifyJS will automatically
+  // Always expose NODE_ENV to webpack, in order to use `process.env.NODE_ENV`
+  // inside your code for any environment checks; UglifyJS will automatically
     // drop any unreachable code.
     new webpack.DefinePlugin({
       'process.env': {
