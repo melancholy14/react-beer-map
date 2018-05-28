@@ -46,6 +46,8 @@ import { translationMessages } from './i18n';
 import './global-styles';
 import './style.less';
 
+import '../node_modules/react-vis/dist/style.css';
+
 // Create redux store with history
 const initialState = {};
 const history = createHistory();
