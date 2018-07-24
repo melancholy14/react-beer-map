@@ -1,0 +1,326 @@
+{
+  "title": "BEER",
+  "children": [
+    {
+      "title": "ALE",
+      "children": [
+        {
+          "title": "LAMBIC",
+          "children": [
+            {
+              "title": "FARO",
+              "size": 30
+            },
+            {
+              "title": "GUEUZE",
+              "size": 30
+            },
+            {
+              "title": "FRUIT",
+              "size": 30
+            },
+            {
+              "title": "UNBLENDED",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "VEGETABLE ALE",
+          "children": [
+            {
+              "title": "CHILE ALE",
+              "size": 30
+            },
+            {
+              "title": "PUMPKIN ALE",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "BELGIAN ALE",
+          "children": [
+            {
+              "title": "BIERE DE CHAMPAGNE",
+              "size": 30
+            },
+            {
+              "title": "FLANDERS RED ALE",
+              "size": 30
+            },
+            {
+              "title": "SAISON",
+              "size": 30
+            },
+            {
+              "title": "OUD BRUIN",
+              "size": 30
+            },
+            {
+              "title": "BIERE DE GARDE",
+              "size": 30
+            },
+            {
+              "title": "BELGIAN PALE ALE",
+              "size": 30
+            },
+            {
+              "title": "BELGIAN DARK ALE",
+              "size": 30
+            },
+            {
+              "title": "WITBIER",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "GERMAN ALE",
+          "children": [
+            {
+              "title": "WEISSBIER",
+              "size": 30
+            },
+            {
+              "title": "ROGGEN BIER",
+              "size": 30
+            },
+            {
+              "title": "KOLSCH",
+              "size": 30
+            },
+            {
+              "title": "ALTBIER",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "PORTER",
+          "children": [
+            {
+              "title": "AMERICAN PORTER",
+              "size": 30
+            },
+            {
+              "title": "ENGLISH PORTER",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "MILD ALE",
+          "children": [
+            {
+              "title": "ENGLISH BROWN ALE",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN BROWN ALE",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "PALE ALE",
+          "children": [
+            {
+              "title": "INDIA PALE ALE",
+              "size": 30
+            },
+            {
+              "title": "ENGLISH PALE ALE",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN PALE ALE",
+              "size": 30
+            },
+            {
+              "title": "STRONG PALE ALE",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "STOUT",
+          "children": [
+            {
+              "title": "FOREIGN STOUT",
+              "size": 30
+            },
+            {
+              "title": "OATMEAL STOUT",
+              "size": 30
+            },
+            {
+              "title": "BALTIC PORTER",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN DOUBLE STOUT",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN STOUT",
+              "size": 30
+            },
+            {
+              "title": "FLAVOURED STOUT",
+              "size": 30
+            },
+            {
+              "title": "RUSSIAN IMPERIAL STOUT",
+              "size": 30
+            },
+            {
+              "title": "IRISH STOUT",
+              "size": 30
+            },
+            {
+              "title": "SWEET STOUT",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "FRENCH ALE",
+          "children": [
+            {
+              "title": "BIERE DE GARDE",
+              "size": 30
+            },
+            {
+              "title": "SAISON",
+              "size": 30
+            },
+            {
+              "title": "OUD BRUIN",
+              "size": 30
+            },
+            {
+              "title": "BIERE DE CHAMPAGNE",
+              "size": 30
+            },
+            {
+              "title": "FLANDERS RED ALE",
+              "size": 30
+            }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "title": "LAGER",
+      "children": [
+        {
+          "title": "AMERICAN LAGER",
+          "children": [
+            {
+              "title": "CALIFORNIA COMMON",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN AMBER LAGER",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN DARK LAGER",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN ADJUNCT LAGER",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN PALE LAGER",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "EUROPEAN LAGER",
+          "children": [
+            {
+              "title": "EUROPEAN PALE LAGER",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "EUROPEAN STRONG LAGER",
+          "children": [
+            {
+              "title": "EUROPEAN DARK LAGER",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "PILSNER",
+          "children": [
+            {
+              "title": "BOHEMIAN PILSNER",
+              "size": 30
+            },
+            {
+              "title": "GERMAN PILSNER",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN IMPERIAL PILSNER",
+              "size": 30
+            },
+            {
+              "title": "AMERICAN PILSNER",
+              "size": 30
+            }
+          ]
+        },
+        {
+          "title": "GERMAN LAGER",
+          "children": [
+            {
+              "title": "DORTMUNDER",
+              "size": 30
+            },
+            {
+              "title": "ALTBIER",
+              "size": 30
+            },
+            {
+              "title": "KELLER BIER",
+              "size": 30
+            },
+            {
+              "title": "BOCK",
+              "size": 30
+            },
+            {
+              "title": "MARZEN",
+              "size": 30
+            },
+            {
+              "title": "SCHWARZ BIER",
+              "size": 30
+            },
+            {
+              "title": "MUNICH LAGER",
+              "size": 30
+            },
+            {
+              "title": "VIENNA LAGER",
+              "size": 30
+            },
+            {
+              "title": "RAUCHBIER",
+              "size": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
