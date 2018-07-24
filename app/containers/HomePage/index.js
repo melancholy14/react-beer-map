@@ -10,35 +10,16 @@
  */
 
 import React from 'react';
-import { Sunburst } from 'react-vis';
 
 // import { FormattedMessage } from 'react-intl';
 // import messages from './messages';
+import SunburstProvider from 'containers/SunburstProvider';
 
-import data from 'data/data.json';
+const HomePage = () => (
+  <div className="App">
+    <h1>BEER MAP</h1>
+    <SunburstProvider />
+  </div>
+);
 
-export default class HomePage extends React.PureComponent {
-
-  state = {
-    currentBeer: 'BEER',
-  };
-
-  hover = (value) => { this.setState({ currentBeer: value.title }); }
-
-  render() {
-    return (
-      <div className="App">
-        <h1>BEER MAP</h1>
-        <p>Now you are looking at: <b>{this.state.currentBeer}</b> </p>
-        <Sunburst
-          hideRootNode
-          colorType="literal"
-          data={data}
-          height={768}
-          width={768}
-          onValueMouseOver={this.hover}
-        />
-      </div>
-    );
-  }
-}
+export default HomePage;
