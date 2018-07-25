@@ -1,0 +1,616 @@
+[
+  {
+    "glass": "PINT",
+    "beer": "CREAM ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "ENGLISH IPA"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMERICAN DARK LAGER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "IRISH STOUT"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "EAST COAST IPA"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "WITBIER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "SCHWARZ BIER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "EUROPEAN DARK LAGER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "PUMPKIN ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "SAHTI"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMERICAN PALE LAGER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "EUROPEAN PALE LAGER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "IRISH ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "BURTON PALE ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMERICAN PALE ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "BLONDE ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "RYE ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "MILD ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMERICAN BROWN ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "CHILE ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMBER ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "ENGLISH BROWN ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "WINTER WARMER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "ENGLISH STRONG ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "ENGLISH PALE ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "BITTER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "INDIA RED ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "INDIA PALE ALE"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "PORTER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "STOUT"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMERICAN STOUT"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "CALIFORNIA COMMON"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "OATMEAL STOUT"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMERICAN AMBER LAGER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "PREMIUM BITTER/ESB"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "AMERICAN PORTER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "WEST COAST IPA"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "WEST COAST IPA"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "ENGLISH PORTER"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "SWEET STOUT"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "FOREIGN STOUT"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "FLAVOURED STOUT"
+  }
+  ,
+  {
+    "glass": "PINT",
+    "beer": "BALTIC PORTER"
+  }
+  ,
+  {
+    "glass": "CAN",
+    "beer": "JAPANESE RICE LAGER"
+  }
+  ,
+  {
+    "glass": "CAN",
+    "beer": "ICE BEER"
+  }
+  ,
+  {
+    "glass": "CAN",
+    "beer": "AMERICAN ADJUNCT LAGER"
+  }
+  ,
+  {
+    "glass": "CAN",
+    "beer": "LIGHT BEER"
+  }
+  ,
+  {
+    "glass": "TULIP",
+    "beer": "BELGIAN STRONG PALE ALE"
+  }
+  ,
+  {
+    "glass": "TULIP",
+    "beer": "BIERE DE GARDE"
+  }
+  ,
+  {
+    "glass": "TULIP",
+    "beer": "SAISON"
+  }
+  ,
+  {
+    "glass": "TULIP",
+    "beer": "OUD BRUIN"
+  }
+  ,
+  {
+    "glass": "TULIP",
+    "beer": "DOUBLE IPA"
+  }
+  ,
+  {
+    "glass": "TULIP",
+    "beer": "BLACK IPA"
+  }
+  ,
+  {
+    "glass": "TULIP",
+    "beer": "SCOTCH ALE"
+  }
+  ,
+  {
+    "glass": "SOLO CUP",
+    "beer": "ICE BEER"
+  }
+  ,
+  {
+    "glass": "SOLO CUP",
+    "beer": "LIGHT BEER"
+  }
+  ,
+  {
+    "glass": "SOLO CUP",
+    "beer": "AMERICAN ADJUNCT LAGER"
+  }
+  ,
+  {
+    "glass": "SNIFTER",
+    "beer": "AMERICAN STRONG ALE"
+  }
+  ,
+  {
+    "glass": "SNIFTER",
+    "beer": "OLD ALE"
+  }
+  ,
+  {
+    "glass": "SNIFTER",
+    "beer": "RUSSIAN IMPERIAL STOUT"
+  }
+  ,
+  {
+    "glass": "SNIFTER",
+    "beer": "WHEAT WINE"
+  }
+  ,
+  {
+    "glass": "SNIFTER",
+    "beer": "BARLEYWINE"
+  }
+  ,
+  {
+    "glass": "SNIFTER",
+    "beer": "AMERICAN DOUBLE STOUT"
+  }
+  ,
+  {
+    "glass": "40OZ",
+    "beer": "MALT LIQUOR"
+  }
+  ,
+  {
+    "glass": "PILSNER",
+    "beer": "AMERICAN PILSNER"
+  }
+  ,
+  {
+    "glass": "PILSNER",
+    "beer": "BOHEMIAN PILSNER"
+  }
+  ,
+  {
+    "glass": "PILSNER",
+    "beer": "DORTMUNDER"
+  }
+  ,
+  {
+    "glass": "PILSNER",
+    "beer": "GERMAN PILSNER"
+  }
+  ,
+  {
+    "glass": "PILSNER",
+    "beer": "AMERICAN IMPERIAL PILSNER"
+  }
+  ,
+  {
+    "glass": "THISTLE",
+    "beer": "BELGIAN SCOTCH ALE"
+  }
+  ,
+  {
+    "glass": "THISTLE",
+    "beer": "SCOTCH ALE"
+  }
+  ,
+  {
+    "glass": "STANGE",
+    "beer": "RAUCHBIER"
+  }
+  ,
+  {
+    "glass": "STANGE",
+    "beer": "ALTBIER"
+  }
+  ,
+  {
+    "glass": "STANGE",
+    "beer": "KOLSCH"
+  }
+  ,
+  {
+    "glass": "BEER BOOT",
+    "beer": "VIENNA LAGER"
+  }
+  ,
+  {
+    "glass": "BEER BOOT",
+    "beer": "MARZEN"
+  }
+  ,
+  {
+    "glass": "MUG",
+    "beer": "KELLER BIER"
+  }
+  ,
+  {
+    "glass": "MUG",
+    "beer": "VIENNA LAGER"
+  }
+  ,
+  {
+    "glass": "MUG",
+    "beer": "MUNICH DUNKEL"
+  }
+  ,
+  {
+    "glass": "MUG",
+    "beer": "BOCK"
+  }
+  ,
+  {
+    "glass": "MUG",
+    "beer": "DOPPELBOCK"
+  }
+  ,
+  {
+    "glass": "MUG",
+    "beer": "EISBOCK"
+  }
+  ,
+  {
+    "glass": "MUG",
+    "beer": "DUNKLER BOCK"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "AMERICAN WHEAT ALE"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "FRUITED WHEATS"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "EUROPEAN STRONG LAGER"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "DUNKEL WEIZEN"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "ROGGEN BIER"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "GOSE"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "HEFEWEIZEN"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "WEIZENBOCK"
+  }
+  ,
+  {
+    "glass": "WEIZEN",
+    "beer": "KRISTAL WEIZEN"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "FLANDERS RED ALE"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "BERLINER WEISSE"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "QUADRUPEL"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "TRIPEL"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "BELGIAN PALE ALE"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "BELGIAN STRONG DARK ALE"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "BELGIAN DARK ALE"
+  }
+  ,
+  {
+    "glass": "GOBLET",
+    "beer": "DUBBEL"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "EISBOCK"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "WHEAT WINE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "ENGLISH BARLEYWINE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "AMERICAN WILD ALE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "OLD ALE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "BELGIAN DARK ALE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "SAISON"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "BELGIAN PALE ALE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "BELGIAN STRONG DARK ALE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "BELGIAN STRONG PALE ALE"
+  }
+  ,
+  {
+    "glass": "WINE GLASS",
+    "beer": "BIERE DE GARDE"
+  }
+  ,
+  {
+    "glass": "FLUTE",
+    "beer": "AMERICAN WILD ALE"
+  }
+  ,
+  {
+    "glass": "FLUTE",
+    "beer": "GUEUZE"
+  }
+  ,
+  {
+    "glass": "FLUTE",
+    "beer": "FARO"
+  }
+  ,
+  {
+    "glass": "FLUTE",
+    "beer": "FRUIT"
+  }
+  ,
+  {
+    "glass": "FLUTE",
+    "beer": "LAMBIC"
+  }
+  ,
+  {
+    "glass": "FLUTE",
+    "beer": "BIERE DE CHAMPAGNE"
+  }
+  ,
+  {
+    "glass": "FLUTE",
+    "beer": "UNBLENDED"
+  }
+  ,
+  {
+    "glass": "WILLIBECHER",
+    "beer": "SCHWARZ BIER"
+  }
+  ,
+  {
+    "glass": "WILLIBECHER",
+    "beer": "MUNICH HELLES"
+  }
+  ,
+  {
+    "glass": "WILLIBECHER",
+    "beer": "HELLES"
+  }
+  ,
+  {
+    "glass": "WILLIBECHER",
+    "beer": "MAIBOCK"
+  }
+  ,
+  {
+    "glass": "WILLIBECHER",
+    "beer": "RAUCHBIER"
+  }
+  ]

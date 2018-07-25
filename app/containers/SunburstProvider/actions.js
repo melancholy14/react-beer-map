@@ -1,25 +1,25 @@
 import {
-  LOAD_SUNBURST_GRAPH_REQUEST,
-  LOAD_SUNBURST_GRAPH_SUCCESS,
-  LOAD_SUNBURST_GRAPH_FAILURE,
+  LOAD_DATA_REQUEST,
+  LOAD_DATA_SUCCESS,
+  LOAD_DATA_FAILURE,
 } from './constants';
 
-export function loadSunburstGraphRequest() {
+export function loadDataRequest() {
   return {
-    type: LOAD_SUNBURST_GRAPH_REQUEST,
+    type: LOAD_DATA_REQUEST,
   };
 }
 
-export function loadSunburstGraphSuccess(data) {
+export function loadDataSuccess(data) {
   return {
-    type: LOAD_SUNBURST_GRAPH_SUCCESS,
+    type: LOAD_DATA_SUCCESS,
     data,
   };
 }
 
-export function loadSunburstGraphFailure(message) {
+export function loadDataFailure(message) {
   return {
-    type: LOAD_SUNBURST_GRAPH_FAILURE,
+    type: LOAD_DATA_FAILURE,
     message,
   };
 }
