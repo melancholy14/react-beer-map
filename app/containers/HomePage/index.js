@@ -17,7 +17,6 @@ import SunburstProvider from 'containers/SunburstProvider';
 
 const HomePage = () => (
   <div className="App">
-    <h1>BEER MAP</h1>
     <SunburstProvider />
   </div>
 );
